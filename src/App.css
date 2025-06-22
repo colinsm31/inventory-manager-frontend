@@ -1,0 +1,31 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+main{
+  background-color: lightblue;
+  height: 80vh;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.logo{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  color: green;
+}
+
+.main-container{
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+}

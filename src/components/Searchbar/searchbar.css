@@ -1,0 +1,11 @@
+input.searchbar{
+  color: rgb(175, 175, 175);
+  background-color: rgb(240, 240, 240);
+  width: 50vw;
+  border: 0;
+  border-radius: 2px;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}

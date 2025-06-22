@@ -1,0 +1,16 @@
+.sidebar{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 20vw;
+  background-color: lightpink;
+  align-items: center;
+}
+
+.sidebar .container{
+  background-color: orange;
+  width: 80%;
+  height: fit-content;
+  margin-top: 10px;
+  padding: 5px;
+}
